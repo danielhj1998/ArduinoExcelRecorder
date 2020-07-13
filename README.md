@@ -1,5 +1,5 @@
 # SerialExcelRecorder
-This command line application let's us receive data from serial ports and organize, and save it in an Excel sheet
+This Java command line application let's us receive data from an Arduino connected to a serial port, organize, and save it in an Excel sheet
 
 # Instructions
 You should build this project with NetBeans IDE and excecute it in the command prompt at as: java -jar nameOfBuild.jar
